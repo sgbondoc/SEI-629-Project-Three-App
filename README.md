@@ -11,12 +11,12 @@
 #### MVP
 - As a user (visitor), I want to search for boba businesses based on location so I can view an exclusive list of boba places in a specific area.
 - As a user (registered), I would like to view a profile page where I can edit my profile details.
-- As a user (registered), I want to create ratings for boba businesses I have tried and provide sub-ratings for other users to view for drinks, toppings, service, and snacks.
+- As a user (registered), I want to create ratings for boba businesses I have visited and provide sub-ratings for other users to view regarding drinks, toppings, service, and snacks.
 
 #### STRETCH 
 - As a user (visitor), I would like a button included with the business info to get map directions to the business instantly.
 - As a user (registered), I would like to filter by location, business name, or drink to view a specific list of boba businesses other users have rated.
-- As a user (registered) I want to be able to view and access a "To Drink List", so I can see feed of recommended location/drink from other users.
+- As a user (registered) I want to be able to view and access a "To Drink List", so I can see a feed of recommended location and drink from other users.
     
 ### Getting Started:
 - https://trello.com/b/uda0ga3z/boba-finder-tracker
@@ -36,7 +36,7 @@
 - HTML, CSS, Javascript
 - MongoDB/Mongoose, Express, React, Node, 
 - Yelp Fusion API
-- Bootstrap, react-spring
+- react-strap, react-spring
 
 ### Link:
 
