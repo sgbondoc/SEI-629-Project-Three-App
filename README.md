@@ -9,7 +9,7 @@
 ### User Stories:
 
 #### MVP
-- As a user (visitor), I want to search for boba businesses based on location so I can view an exclusive list of boba places in a specific area.
+- As a user (visitor), I want to search for boba businesses based on location so I can view an exclusive list of boba businesses in a specific area.
 - As a user (registered), I would like to view a profile page where I can edit my profile details.
 - As a user (registered), I want to create ratings for boba businesses I have visited and provide sub-ratings for other users to view regarding drinks, toppings, service, and snacks.
 
@@ -34,9 +34,9 @@
 
 ### Technology:
 - HTML, CSS, Javascript
-- MongoDB/Mongoose, Express, React, Node, 
+- Mongoose/MongoDB/Atlas, Express, React, Node, 
 - Yelp Fusion API
-- react-strap, react-spring
+- react-strap
 
 ### Link:
 
