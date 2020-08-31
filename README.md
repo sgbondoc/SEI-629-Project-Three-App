@@ -43,7 +43,7 @@
 - HTML, CSS, Javascript
 - Mongoose/MongoDB/Atlas, Express, React, Node 
 - Yelp Fusion API
-- react-strap
+- reactstrap
 
 ### App Link: 
 https://showmetheboba.herokuapp.com/
