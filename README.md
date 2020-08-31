@@ -4,7 +4,7 @@
 
 ### Intro:
 - For the boba connoisseur! An app to search for boba businesses to get that bubble tea fix. 
-- Plus, rate and track boba businesses drinks and see what other boba lovers are recommending.
+- Plus, rate and track boba businesses/drinks and see what other boba lovers are recommending.
 
 ### User Stories:
 
@@ -45,5 +45,6 @@
 - Yelp Fusion API
 - react-strap
 
-### App Link: https://showmetheboba.herokuapp.com/
+### App Link: 
+https://showmetheboba.herokuapp.com/
 
