@@ -36,8 +36,8 @@
 - Users (registered) are able to select background themes.
 
 ### Wireframes & Models:
-
-![Wireframes]
+![Wireframes](boba-wireframes.png)
+![Models](boba-models.png)
 
 ### Technology:
 - HTML, CSS, Javascript
