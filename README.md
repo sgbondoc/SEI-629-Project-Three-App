@@ -1,6 +1,6 @@
 # SEI-629-Project-Three-App
 
-## MERN Stack App: Boba Finder Tracker - SHOW ME THE BOBA
+## MERN Stack App: Boba Finder - SHOW ME THE BOBA
 
 ### Intro:
 - For the boba connoisseur! An app to search for boba businesses to get that bubble tea fix. 
